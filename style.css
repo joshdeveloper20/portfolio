@@ -567,6 +567,10 @@ footer {
 }
 
 @media screen and (max-width: 576px) {
+  .nav ul {
+    left: -240px;
+    width: 240px;
+  }
   .hero-image {
     height: 300px;
     width: 300px;
